@@ -5,12 +5,12 @@
   --font-poppins: "Poppins", sans-serif;
 
   --color-red: hsl(0, 78%, 62%);
-  --cyan: hsl(180, 62%, 55%);
-  --orange: hsl(34, 97%, 64%);
-  --blue: hsl(212, 86%, 64%);
-  --gray-500: hsl(234, 12%, 34%);
-  --gray-400: hsl(212, 6%, 44%);
-  --white: hsl(0, 0%, 100%);
+  --color-cyan: hsl(180, 62%, 55%);
+  --color-orange: hsl(34, 97%, 64%);
+  --color-blue: hsl(212, 86%, 64%);
+  --color-gray-500: hsl(234, 12%, 34%);
+  --color-gray-400: hsl(212, 6%, 44%);
+  --color-white: hsl(0, 0%, 100%);
   
 }
 
