@@ -12,7 +12,7 @@ function App(){
           <h1 className='text-sm text-gray-400'>Our Artificial Intelligence powered tools inspire millions of projects accross the globe. Feel free to explore them.</h1>
         </header>
         <article className='grid px-8 gap-6 mt-10 grid-cols-1 lg:grid-cols-3 lg:grid-rows-3 lg:w-[900px]'>
-          <div className='w-[90%] lg:w-46 relative'>
+          <div className='w-[90%] lg:w-46 relative bg-white'>
              <h4 className='font-[600] text-gray-500'>Team Builder</h4>
              <p className='text-sm text-gray-400'>Scans and see how to scout new members to for us to grow</p>
              <img className='absolute' src="/images/icon-team-builder.svg" alt="Team builder image" />
