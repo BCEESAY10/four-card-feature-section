@@ -14,7 +14,7 @@ function App(){
           <div className='w-[300px] min-h-[200px] relative bg-white p-6 rounded-lg shadow-md border-t-[6px] border-red lg:row-span-2 lg:ml-[350px] lg:row-start-1'>
              <h4 className='font-[600] text-gray-500'>Team Builder</h4>
              <p className='text-sm text-gray-400'>Scans our talent network to create the optimal team for your project</p>
-             <img className='absolute h-10 w-10 bottom-4 right-4' src="/images/icon-team-builder.svg" alt="Team builder image" />
+             <img className='absolute h-10 w-10 bottom-4 right-4' src="images/icon-team-builder.svg" alt="Team builder image" />
           </div>
 
           <div className='w-[300px] min-h-[200px] relative bg-white p-6 rounded-lg shadow-md border-t-[6px] border-cyan lg:row-span-2 lg:row-start-2'>
