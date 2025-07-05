@@ -20,19 +20,19 @@ function App(){
           <div className='w-[90%] lg:w-46 relative bg-white p-6 rounded-lg shadow-lg border-t border-blue lg:row-start-2'>
              <h4 className='font-[600] text-gray-500'>Supervisor</h4>
              <p className='text-sm text-gray-400'>Monitors activity to identify project roadblocks</p>
-             <img className='absolute' src="/images/icon-team-builder.svg" alt="Team builder image" />
+             <img className='absolute h-8 w-8 bottom-4 right-4' src="/images/icon-supervisor.svg" alt="Team builder image" />
           </div>
 
           <div className='w-[90%] lg:w-46 relative bg-white p-6 rounded-lg shadow-lg border-t border-blue lg:row-start-2 lg:col-start-2'>
              <h4 className='font-[600] text-gray-500'>Karma</h4>
              <p className='text-sm text-gray-400'>Regularly evaluates our talent to ensure quality</p>
-             <img className='absolute' src="/images/icon-team-builder.svg" alt="Team builder image" />
+             <img className='absolute h-8 w-8 bottom-4 right-4' src="/images/icon-karma.svg" alt="Team builder image" />
           </div>
 
           <div className='w-[90%] lg:w-46 relative bg-white p-6 rounded-lg shadow-lg border-t border-blue lg:row-start-2 lg:col-start-3'>
              <h4 className='font-[600] text-gray-500'>Calculator</h4>
              <p className='text-sm text-gray-400'>Uses data from past projects to provide better delivery estimates</p>
-             <img className='absolute' src="/images/icon-team-builder.svg" alt="Team builder image" />
+             <img className='absolute h-8 w-8 bottom-4 right-4' src="/images/icon-calculator.svg" alt="Team builder image" />
           </div>
         </article>
       </main>
