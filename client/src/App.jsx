@@ -11,7 +11,7 @@ function App(){
           <h3 className='text-sm text-gray-400'>Our Artificial Intelligence powered tools inspire millions of projects accross the globe. Feel free to explore them.</h3>
         </header>
         <article className='grid p-8 lg:py-0 lg:-mt-16 grid-cols-1 lg:grid-cols-3 lg:grid-rows-3 gap-6'>
-          <div className='w-[300px] min-h-[200px] relative bg-white p-6 rounded-lg shadow-md border-t-[4px] border-red lg:col-start-2 lg:row-start-1 transform translate-y-1/2'>
+          <div className='w-[300px] min-h-[200px] relative bg-white p-6 rounded-lg shadow-md border-t-[4px] border-red lg:col-start-2 lg:row-start-1 transform lg:translate-y-1/2'>
              <h4 className='font-[600] text-gray-500'>Team Builder</h4>
              <p className='text-sm text-gray-400'>Scans our talent network to create the optimal team for your project</p>
              <img className='absolute h-10 w-10 bottom-4 right-4' src="images/icon-team-builder.svg" alt="Team builder image" />
@@ -23,7 +23,7 @@ function App(){
              <img className='absolute h-10 w-10 bottom-4 right-4' src="/images/icon-supervisor.svg" alt="Team builder image" />
           </div>
 
-          <div className='w-[300px] min-h-[200px] relative bg-white p-6 rounded-lg shadow-md border-t-[4px] border-orange lg:col-start-2 lg:row-start-3 transform -translate-y-1/2'>
+          <div className='w-[300px] min-h-[200px] relative bg-white p-6 rounded-lg shadow-md border-t-[4px] border-orange lg:col-start-2 lg:row-start-3 transform lg:-translate-y-1/2'>
              <h4 className='font-[600] text-gray-500'>Karma</h4>
              <p className='text-sm text-gray-400'>Regularly evaluates our talent to ensure quality</p>
              <img className='absolute h-10 w-10 bottom-4 right-4' src="/images/icon-karma.svg" alt="Team builder image" />
